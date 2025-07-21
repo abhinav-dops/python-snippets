@@ -32,9 +32,5 @@ Welcome to my \*\*Python Snippets\*\* repository — a collection of short, focu
 
 
 
-This repository is organized either by \*\*date\*\* or by \*\*topic\*\*, depending on the nature of the snippet:
-
-
-
 
 
