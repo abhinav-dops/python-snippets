@@ -32,11 +32,15 @@ Welcome to my \*\*Python Snippets\*\* repository — a collection of short, focu
 
 
 
+\-✅ Basics
+
 \-✅ List methods
 
 \-✅ Control flow (if, while, for)
 
 \-✅ Functions and parameters
+
+\-✅ Tuples,Set and Dictionary
 
 \-✅ File handling (open, read, write)
 
