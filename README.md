@@ -28,6 +28,30 @@ Welcome to my \*\*Python Snippets\*\* repository — a collection of short, focu
 
 
 
+\# 📌 Topics To Be Covered
+
+
+
+\-✅ List methods
+
+\-✅ Control flow (if, while, for)
+
+\-✅ Functions and parameters
+
+\-✅ File handling (open, read, write)
+
+\-✅ Error handling (try-except)
+
+\-✅ Modules and packages
+
+\-✅ JSON, YAML, scripting basics
+
+
+
+---
+
+
+
 
 
 
