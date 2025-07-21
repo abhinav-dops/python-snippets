@@ -28,7 +28,6 @@ Welcome to my \*\*Python Snippets\*\* repository — a collection of short, focu
 
 
 
-\## 📁 Repository Structure
 
 
 
