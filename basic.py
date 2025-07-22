@@ -7,7 +7,9 @@ print(age)
 print(is_cloud_ready)
 
 print(type(age))  # <class 'int'>
-print(type(nane))
+print(type(nane)) # class 'str'
+
+
 name = input("Enter your name: ")
 print("Welcome,", name)
 
