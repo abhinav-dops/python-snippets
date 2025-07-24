@@ -1,6 +1,6 @@
 \# 🐍 Daily Python Snippets
 
-
+aa
 
 Welcome to my \*\*Python Snippets\*\* repository — a collection of short, focused Python scripts written and committed every day to build consistency, improve my skills, and keep my GitHub contributions active.
 
