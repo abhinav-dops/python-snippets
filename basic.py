@@ -12,6 +12,7 @@ print(type(nane)) # class 'str'
 
 name = input("Enter your name: ")
 print("Welcome,", name)
+print(20)
 
 a = 5
 b = 2
