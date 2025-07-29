@@ -1,5 +1,5 @@
 tasks = []
-shsh
+sh
 for i in range(1,6):
     task = input(f"Enter task {i}: ")
     tasks.append(task)
