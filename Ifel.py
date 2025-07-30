@@ -1,5 +1,5 @@
 age = 18
-
+#if else is used for conditional statements
 if age >= 18:
     print("You are eligible to vote")
 else:
