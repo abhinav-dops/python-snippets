@@ -3,3 +3,5 @@ from datetime import datetime
 
 date = datetime.now().strftime("%Y-%m-%d")
 print(date)
+
+sadknf kdsa fasd
