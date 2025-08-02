@@ -1,4 +1,4 @@
-ake 
+
 fruits = ["apple", "banana", "cherry"]
 
 print(fruits[0])     # Output: apple
@@ -32,6 +32,7 @@ colors.reverse()
 
 for color in colors:
     print(color)
+
 
 
 
