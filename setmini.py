@@ -9,6 +9,7 @@ common = numbers.intersection(more_numbers)
 
 print("Common elements:", common)
 
-hj,j
+hj,
 # List ([])	Tuple (())	Set ({})
+
 
