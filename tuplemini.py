@@ -6,4 +6,4 @@ print(name)      # Alice
 print(age)       # 25
 print(language)  # Python
 
-editing its 
+editing
