@@ -1,5 +1,5 @@
 profile = {}
-
+ fdlkjglkdsjfg
 name = input("Enter your name: ")
 age = int(input("Enter your Age: "))
 favorite_language = input("Enter your favorite language: ")
@@ -29,4 +29,5 @@ student["age"] = 21
 student["college"] = "Xyz"
 
 for key, value in student.items():
+
     print(key, ":" , value)
