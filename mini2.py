@@ -24,4 +24,5 @@ for i in range(len(profiles)):
         print(f"{key} : {value}")
 
 
-kj;lkd
+kj;l
+
