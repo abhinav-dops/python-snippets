@@ -21,7 +21,7 @@ for key, value in my_dict.items():
 
 for value in my_dict.items():
     print(value)
-
+jlksdfk
 
 
 #Method	What it does
@@ -31,5 +31,6 @@ for value in my_dict.items():
 #dict.get(k)	Safely gets a value by key
 #dict.pop(k)	Removes a key
 #k in dict	Checks if key exists
+
 
 print(my_dict.get("name"))
