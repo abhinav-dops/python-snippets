@@ -21,8 +21,7 @@ for key, value in my_dict.items():
 
 for value in my_dict.items():
     print(value)
-jlks
-
+jlk
 #Method	What it does
 #dict.keys()	Returns all keys
 #dict.values()	Returns all values
@@ -33,4 +32,5 @@ jlks
 
 
 print(my_dict.get("name"))
+
 
