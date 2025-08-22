@@ -8,8 +8,7 @@ if os.path.exists("expenses.json"):
         expenses = json.load(file)
 else:
     expenses = []
-hahahahahahhahhah
-
+hahahahahahh
 def show_total_expenses():    #  show total spending.
     with open("expenses.json", "r") as file:
         expenses = json.load(file)
@@ -121,5 +120,6 @@ while True:
 
     else:
         print("Invalid choice. Please select from 1 to 6.")
+
 
 
