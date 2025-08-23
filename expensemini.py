@@ -8,7 +8,7 @@ if os.path.exists("expenses.json"):
         expenses = json.load(file)
 else:
     expenses = []
-
+supposed ot ahaha
 # Add new expenses
 n = int(input("How many expenses do you want to enter: "))
 
@@ -105,5 +105,6 @@ def delete_expenses_by_index():
 
     except ValueError:
         print(" Please enter a valid number.")
+
 
 delete_expenses_by_index()
