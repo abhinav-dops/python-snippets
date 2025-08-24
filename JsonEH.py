@@ -16,7 +16,7 @@ with open ("data.json" ,"r" )as file:
     print("Loaded JSON as dictionary:")
     print(loaded)
 
-
+hahahah
 
 #converting json string to python dictionary
 
@@ -28,4 +28,5 @@ data = json.loads(json_string)
 print("Type : ", type(data))
 print("data: " , data)
 print(data["name"])
+
 
