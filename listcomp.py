@@ -4,4 +4,4 @@ print("Even numbers:", even_nums)
 
 #[expression for item in iterable if condition]
 
-kjjjj
+kjj
