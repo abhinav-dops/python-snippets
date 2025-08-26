@@ -20,4 +20,3 @@ for expense in loaded_file:
     print("Amount:", expense["amount"])
     print("Category:", expense["category"])
 
-save and koavkd
