@@ -4,4 +4,6 @@ try:
     print("Result: ", result)
 
 except Exception as e:
+
     print("an error occured : " , e)
+    sadfisad lkfajsk
