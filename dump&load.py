@@ -1,5 +1,5 @@
 import json
-
+dlkfg ldfskg lds
 # --------------------------------------
 # 1️⃣ json.load() - Read JSON from a file
 # --------------------------------------
@@ -36,3 +36,4 @@ print()
 print(" Converting Python object to JSON string (dumps):")
 json_text = json.dumps(to_write, indent=2)
 print(json_text)
+
