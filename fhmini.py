@@ -16,4 +16,4 @@ with open("log.txt", "r") as file:
 with open("log.txt", "r") as file:
     lines = file.readlines()
     print(lines)
-file handling mini
+
