@@ -27,8 +27,9 @@ else:
 if os.path.exists("tasks.txt"):
     os.remove("tasks.txt")
     print("tasks.txt deleted")
-file handle mini 
+file ha
 else:
 
     print("file does not exist.")
+
 
