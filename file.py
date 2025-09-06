@@ -29,3 +29,5 @@ os.path.exists("file.txt")
 
 # Delete file
 os.remove("file.txt")
+
+file.py
