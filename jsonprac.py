@@ -25,4 +25,3 @@ todo = {
 convert_pyobj_jsonstr = json.dumps(todo)
 
 print(type(convert_pyobj_jsonstr)) #string
-json
